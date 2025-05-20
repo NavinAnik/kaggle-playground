@@ -1,0 +1,16 @@
+# Core
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+
+# Jupyter
+notebook
+ipykernel
+
+# Optional for deep learning
+xgboost
+lightgbm
+tensorflow
+torch
