@@ -47,7 +47,6 @@ Or manually install packages used in specific notebooks as needed.
 | House Prices        | `houseprices_eda.ipynb`, `houseprices_model.ipynb` | [View on Kaggle](https://www.kaggle.com/c/house-prices-advanced-regression-techniques) |
 | ...                 | ...                                         | ...                              |
 
-Add your own competitions as needed by creating new folders inside `notebooks/`.
 
 ## 📜 License
 
