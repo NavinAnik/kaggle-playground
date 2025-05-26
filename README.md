@@ -45,7 +45,9 @@ Or manually install packages used in specific notebooks as needed.
 |---------------------|---------------------------------------------|----------------------------------|
 | Titanic             | `titanic_eda.ipynb`, `titanic_modeling.ipynb` | [View on Kaggle](https://www.kaggle.com/c/titanic) |
 | House Prices        | `houseprices_eda.ipynb`, `houseprices_model.ipynb` | [View on Kaggle](https://www.kaggle.com/c/house-prices-advanced-regression-techniques) |
-| ...                 | ...                                         | ...                              |
+| LLM Classification Finetuning |`EDA.ipynb`, `modelling.ipynb`| [View on Kaggle](https://www.kaggle.com/competitions/llm-classification-finetuning) |
+| Store Sales |`EDA.ipynb`, `modelling.ipynb`| [View on Kaggle](https://www.kaggle.com/competitions/store-sales-time-series-forecasting) |
+| I’m Something of a Painter Myself |`EDA.ipynb`, `modelling.ipynb`| [View on Kaggle](https://www.kaggle.com/competitions/gan-getting-started/overview) |
 
 
 ## 📜 License
