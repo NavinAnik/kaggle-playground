@@ -15,11 +15,17 @@ venv/
 
 .idea/
 
+./datasets/
+
+*.jpg
+
+*.tfrec
+
 # Data files (optional)
 *.csv
 *.tsv
 *.zip
 *.h5
 *.pkl
-
+*.jpg
 
