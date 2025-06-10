@@ -21,6 +21,8 @@ venv/
 
 *.tfrec
 
+*.parqut
+
 # Data files (optional)
 *.csv
 *.tsv
