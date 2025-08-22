@@ -48,6 +48,7 @@ Or manually install packages used in specific notebooks as needed.
 | LLM Classification Finetuning |`EDA.ipynb`, `modelling.ipynb`| [View on Kaggle](https://www.kaggle.com/competitions/llm-classification-finetuning) |
 | Store Sales |`EDA.ipynb`, `modelling.ipynb`| [View on Kaggle](https://www.kaggle.com/competitions/store-sales-time-series-forecasting) |
 | I’m Something of a Painter Myself |`EDA.ipynb`, `modelling.ipynb`| [View on Kaggle](https://www.kaggle.com/competitions/gan-getting-started/overview) |
+| MITSUI&CO. Commodity Prediction Challenge |`EDA.ipynb`, `modelling.ipynb`| [View on Kaggle](https://www.kaggle.com/competitions/gan-getting-started/overview) |
 
 
 ## 📜 License
